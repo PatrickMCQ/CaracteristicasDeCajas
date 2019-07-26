@@ -1,0 +1,6 @@
+C:\Users\patri\source\repos\CaracteristicasCajas\CaracteristicasCajas\bin\Debug\CaracteristicasCajas.exe.config
+C:\Users\patri\source\repos\CaracteristicasCajas\CaracteristicasCajas\bin\Debug\CaracteristicasCajas.exe
+C:\Users\patri\source\repos\CaracteristicasCajas\CaracteristicasCajas\bin\Debug\CaracteristicasCajas.pdb
+C:\Users\patri\source\repos\CaracteristicasCajas\CaracteristicasCajas\obj\Debug\CaracteristicasCajas.csprojResolveAssemblyReference.cache
+C:\Users\patri\source\repos\CaracteristicasCajas\CaracteristicasCajas\obj\Debug\CaracteristicasCajas.exe
+C:\Users\patri\source\repos\CaracteristicasCajas\CaracteristicasCajas\obj\Debug\CaracteristicasCajas.pdb
